@@ -1,0 +1,9 @@
+<title>箇条書き・番号書きを覚える | プログラミングは難しい!</title>
+<h3>箇条書き・番号書きを覚える</h3>
+
+<p>　箇条書き・番号書きには、<p class=class1>親要素</p>と<p class=class1>子要素</p>があり、子要素を文字と文字の間に挟み、親要素は子要素と子要素の間に挟みます。それがわかれば後は子要素を&lt;li&gt;,親要素を番号書きの場合は&lt;ol&gt;、箇条書きの場合は&lt;ul&gt;にすれば完成です。</p>
+<a href="https://eichan50.github.io/github.io/">目次に戻る</a>
+<style>.class1{
+    color:red;
+}
+</style>
